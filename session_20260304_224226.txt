@@ -1,0 +1,19 @@
+---- Session Started ----
+What would you like to do today?
+> run ls
+> y
+assistant.py
+session_20260304_222008.txt
+session_20260304_222324.txt
+session_20260304_224226.txt
+> run ls -a
+> y
+.
+..
+assistant.py
+session_20260304_222008.txt
+session_20260304_222324.txt
+session_20260304_224226.txt
+> 
+Please use the format: run <command>
+Goodbye!
